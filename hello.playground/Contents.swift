@@ -1,3 +1,3 @@
-import UIKit
-
-var str = "Hello, playground"
+var a = 123
+var b = "abc"
+a = "123"
